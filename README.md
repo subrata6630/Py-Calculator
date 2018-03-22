@@ -14,6 +14,4 @@ It has got a lot of features like there are “(” “)” available with Inval
 
 
 
-
-
-! [demo](https://infocode.org/wp-content/uploads/2018/01/Screenshot-from-2018-01-17-18-04-22-e1516191653535-300x139.png)
+![demo](https://raw.githubusercontent.com/helloflask/calculator/master/static/demo.png)
